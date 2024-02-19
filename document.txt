@@ -1,0 +1,14 @@
+-Starting Point of this application backend is server.js .Using node.js and express.js for backend.
+
+-using chakra ui for building components much faster. It is similiar to material UI or bootstrap.
+
+-we can use proxy in package.json of frontend to resolve cors issue.This helps to send request from frontend to backend,even though our react server and express server are on different localhost,domain name whatever you can say.
+
+-used axios for fetching data and making api calls.
+
+-created models for chat,message and user.using google fonts and other stuff in order to create the ui for homepage.
+
+#Used Tech Stacks:
+-mern
+-chakra ui
+-axios
